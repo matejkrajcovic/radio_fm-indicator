@@ -2,8 +2,9 @@
 
 Unity indicator for Radio_FM stream
 
-## Requisites
+## Requirements
 * Python
+* python-appindicator
 * VLC media player
 
 ## Installation
